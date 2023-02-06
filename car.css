@@ -1,0 +1,133 @@
+.stylinglogo{
+	height: 60px;
+	width: 150px;
+	padding: 8px;
+}
+#go{
+	background-color: white;
+	color: black;
+	padding: 5px;
+	border-radius: 7px;
+	font-family: 'Roboto';
+	font-weight: bold;
+	border: 0px;
+}
+#togo{
+	background-color: #e80918;
+	border: 0px;
+	border-radius: 5px;
+	color: white;
+}
+#go:hover{
+	background-color:#d60916;
+	color:white;
+	border-radius: 5px;
+	border: 0px;
+}
+#togo:hover{
+	background-color:#1710e8 ;
+}
+.gradient2{
+	background-image: url(https://res.cloudinary.com/dxujeg5en/image/upload/v1669302394/modified-mazda-4k-4t_rfmpjx.jpg);
+	height: 100vh;
+	background-size: cover;
+	text-align: center;
+	color: white;
+	padding-top: 35%;
+	font-weight: bold;
+}
+.lav{
+	background-color: #e6dddc;
+	color: black;
+	padding-left: 3%;
+	height: 55vh;
+	padding-top: 1%;
+}
+.navicard{
+background-color: white;
+    width:350px;
+    border-radius: 15px;
+    padding-top:10px;
+    height:250px;
+    text-align: center;
+    margin: 20px;
+    color: black;
+    font-family: 'Roboto';
+
+}
+.navicard1{
+background-color: white;
+    width:350px;
+    border-radius: 15px;
+    padding:10px;
+    height:250px;
+    text-align: center;
+    margin: 20px;
+    color: black;
+    font-family: 'Roboto';
+    
+
+}
+.navicard2{
+	background-color: white;
+    width:350px;
+    border-radius: 15px;
+    padding:10px;
+    height:250px;
+    text-align: center;
+    margin: 20px;
+    color: black;
+    font-family: 'Roboto';
+}
+.nihacard{
+	background-color:#f2e5e4;
+    width:200px;
+    border-radius: 15px;
+    padding:10px;
+    height:275px;
+    text-align: left;
+    margin: 20px;
+    color: black;
+    font-family: 'Roboto';
+    font-weight: bold;
+    shadow: 2px 2px 4px;
+}
+.exploreimage{
+	color:red;
+}
+.ashraf{
+	padding-top: 10%;
+}
+.paycarding{
+	width: 100px;
+	height: 80px;
+margin-right: 28px;
+}
+.anu{
+	background-color: #f2d8d9;
+	padding-top: 2%;
+	height: 80vh;
+	width: 2000px;
+}
+.siddu{
+	text-align: center;
+	font-weight: bold;
+}
+.nari{
+	width: 650px;
+	padding: 10%;
+	height:100px;
+}
+.fa-facebook:hover{
+	background-color: white;
+}
+.fa-instagram:hover{
+	background-color: white;
+}
+.fa-linkedin:hover{
+	background-color: white;
+}
+.ramana{
+	padding-top: 45%;
+	margin-right: 2%;
+}
